@@ -7,17 +7,18 @@ Tracked State
 
 Modified State
 
-  ***bash
+  ```bash
       git add <filename>
-  ***
+  ```
 
 Staged State
-***bash
+
+```bash
     git commit -m "Commit Message"
-***
+```
 
 Committed State
 
-***bash
+```bash
     git push
-***
+```
